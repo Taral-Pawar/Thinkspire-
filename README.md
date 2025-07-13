@@ -40,12 +40,6 @@ A smart, self-service paper printing kiosk developed during a hackathon by **Tea
 - **Taral Pawar** – CAD Model, PCB Design
 - **Partha Pratim Roy** – UI, MATLAB Simulation, PCB Design
 
----
-
-### 📷 Screenshots
-*(Add relevant images of CAD model, UI, simulation, etc.)*
-
----
 
 ### 💡 Inspiration
 Creating a 24x7, self-sufficient print kiosk for remote campuses, libraries, and public places to simplify the document printing process.
